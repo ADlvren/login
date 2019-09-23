@@ -10,4 +10,8 @@ public class firstGit {
         System.out.println("hello...");
         System.out.println("hello...");
     }
+    public  static  void  test(){
+        int a= 10;
+        System.out.println(a);
+    }
 }
